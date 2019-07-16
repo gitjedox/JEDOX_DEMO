@@ -1,3 +1,3 @@
 # JEDOX_DEMO
 
-Sample
+Sample - Conflict
